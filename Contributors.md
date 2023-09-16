@@ -1,5 +1,6 @@
 # Contributors
 - [Carlos Villermosa](https://github.com/CarlosViller)
+- [Swaraj Singh Dhami](https://github.com/swaraj4410)
 - [Ramez Gabra](https://github.com/ramezgabra)
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Coop](https://github.com/SnowfallHD)
